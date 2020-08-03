@@ -1,0 +1,145 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.head {
+  float: right;
+  overflow: hidden;
+  width: auto;
+  height: 60px;
+}
+.head ul li a {
+  padding: 10px 10px;
+  text-decoration: none;
+  color: black;
+}
+li {
+  list-style: none;
+  overflow: hidden;
+}
+.head ul li .photo img {
+  border-radius: 50%;
+  float: right;
+}
+.photo {
+  float: right;
+}
+.head ul li {
+  margin-top: 20px;
+  margin-right: 31px;
+}
+.head_words {
+  margin-right: 25px;
+  float: left;
+  margin-top: 8px;
+}
+.google_logo {
+  overflow: hidden;
+}
+.google_logo img {
+  height: 200px;
+  margin-left: 546px;
+  margin-top: 100px;
+}
+.search_bar {
+  text-align: center;
+  margin-top: -30px;
+}
+.search_bar input[type="text"] {
+  padding: 10px 185px;
+  border-radius: 20px;
+  border: 1px solid #dfe1e5;
+}
+i.fas.fa-search {
+  position: absolute;
+  top: 29%;
+  transform: translateY(-50%);
+  margin-top: 93px;
+  margin-left: -39%;
+  color: #dfe1e5;
+}
+i.fas.fa-microphone {
+  position: absolute;
+  top: 29%;
+  transform: translateY(-50%);
+  margin-top: 93px;
+  margin-left: -2%;
+  color: blue;
+}
+.buttons .b1 a {
+  float: left;
+  padding: 20px 30px;
+  background-color: #f2f2f2;
+  margin-left: 12px;
+  height: 0px;
+  line-height: 0px;
+  text-decoration: none;
+  border-radius: 5px;
+}
+.buttons .b2 a {
+  float: left;
+  padding: 20px 30px;
+  background-color: #f2f2f2;
+  margin-left: 12px;
+  height: 0px;
+  line-height: 0px;
+  text-decoration: none;
+  border-radius: 5px;
+  font-size: 14px;
+}
+.buttons {
+  width: 60%;
+  height: 100px;
+  margin-left: 513px;
+  margin-top: 25px;
+  font-size: 14px;
+}
+.text p {
+  text-align: center;
+  font-size: 14px;
+  margin-top: -22px;
+}
+.text p a {
+  text-decoration: none;
+}
+.footer_1 {
+  margin-top: 180px;
+  background-color: #f2f2f2;
+  height: 35px;
+  line-height: 35px;
+  border-bottom: 3px solid #dfe1e5;
+}
+.footer_1 p {
+  margin-left: 20px;
+}
+.footer_2 {
+  background-color: #f2f2f2;
+  height: 44px;
+  line-height: 25px;
+}
+.fotter_2 .left {
+  list-style: none;
+}
+.fotter_2 .right {
+  list-style: none;
+}
+.left ul li a {
+  padding: 20px;
+  text-decoration: none;
+  color: black;
+}
+.right ul li a {
+  padding: 20px;
+  text-decoration: none;
+  color: black;
+  float: right;
+}
+.left ul li {
+  width: 50%;
+  float: left;
+}
+.right ul li {
+  width: 50%;
+  float: right;
+  margin-top: -21px;
+}
